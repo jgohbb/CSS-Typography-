@@ -1,0 +1,53 @@
+body {
+    font-family: 
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-style: oblique;
+    padding: 10px;
+    text-align: center;
+}
+
+h3 {
+    box-sizing: border-box;
+    box-shadow: red;
+    background: #777;
+    color:#ebebeb;
+    font-style: italic; 
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+h4 {
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+p {
+    font-family: 'Lucida Sans Pro', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bold {
+    font-weight: bold
+}
+
+.font24x {
+    font-size: 24px;
+}    
+
+.line {
+    line-height: 50px;
+}
+
+#option {
+    font-family: fantasy;
+}
+
+#option2 {
+    box-sizing: border-box;
+    background: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+    border-block-color: yellow;
+}
